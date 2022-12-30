@@ -1,0 +1,22 @@
+:root{
+  --mainBlue:#2a2a72;
+  --mainWhite : #f3f3f3;
+  --mainDark: #232528;
+  --lightDark: #8ab1eb;
+}
+body{
+  font-family: "Trirong" !important;
+  background: var(--mainWhite) !important;
+  color:var(--mainDark) ;
+}
+.text-title{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+.text-blue{
+  color: var(--mainBlue);
+}
+.text-bright{
+  color: var(--lightBlue);
+}
